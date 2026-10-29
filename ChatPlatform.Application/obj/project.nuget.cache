@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "TDcJs8NDFv4JtNS7P7K6eH7OqlPVD83Zuj6C80FhtSZUkDx2Sw8PMvJ8o7QgZq6MwZlQxSTv//JkTfP4mRCxuA==",
+  "success": true,
+  "projectFilePath": "D:\\Web Course\\Projects\\ChatPlatform\\ChatPlatform.Application\\ChatPlatform.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OWNER\\.nuget\\packages\\bouncycastle.cryptography\\2.7.0\\bouncycastle.cryptography.2.7.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\mailkit\\4.18.1\\mailkit.4.18.1.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.0\\microsoft.bcl.cryptography.10.0.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\mimekit\\4.18.1\\mimekit.4.18.1.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\polly\\8.8.0\\polly.8.8.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\polly.core\\8.8.0\\polly.core.8.8.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\polly.extensions\\8.8.0\\polly.extensions.8.8.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\system.formats.asn1\\10.0.0\\system.formats.asn1.10.0.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.0\\system.security.cryptography.pkcs.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

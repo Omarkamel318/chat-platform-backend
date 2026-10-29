@@ -1,0 +1,11 @@
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Domain\bin\Debug\net8.0\ChatPlatform.Domain.deps.json
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Domain\bin\Debug\net8.0\ChatPlatform.Domain.dll
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Domain\bin\Debug\net8.0\ChatPlatform.Domain.pdb
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Domain\obj\Debug\net8.0\ChatPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Domain\obj\Debug\net8.0\ChatPlatform.Domain.AssemblyInfoInputs.cache
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Domain\obj\Debug\net8.0\ChatPlatform.Domain.AssemblyInfo.cs
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Domain\obj\Debug\net8.0\ChatPlatform.Domain.csproj.CoreCompileInputs.cache
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Domain\obj\Debug\net8.0\ChatPlatform.Domain.dll
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Domain\obj\Debug\net8.0\refint\ChatPlatform.Domain.dll
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Domain\obj\Debug\net8.0\ChatPlatform.Domain.pdb
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Domain\obj\Debug\net8.0\ref\ChatPlatform.Domain.dll

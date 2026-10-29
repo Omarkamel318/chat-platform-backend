@@ -1,0 +1,15 @@
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\bin\Debug\net8.0\ChatPlatform.Application.deps.json
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\bin\Debug\net8.0\ChatPlatform.Application.dll
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\bin\Debug\net8.0\ChatPlatform.Application.pdb
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\bin\Debug\net8.0\ChatPlatform.Domain.dll
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\bin\Debug\net8.0\ChatPlatform.Domain.pdb
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\obj\Debug\net8.0\ChatPlatform.Application.csproj.AssemblyReference.cache
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\obj\Debug\net8.0\ChatPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\obj\Debug\net8.0\ChatPlatform.Application.AssemblyInfoInputs.cache
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\obj\Debug\net8.0\ChatPlatform.Application.AssemblyInfo.cs
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\obj\Debug\net8.0\ChatPlatform.Application.csproj.CoreCompileInputs.cache
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\obj\Debug\net8.0\ChatPlatform.Application.csproj.CopyComplete
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\obj\Debug\net8.0\ChatPlatform.Application.dll
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\obj\Debug\net8.0\refint\ChatPlatform.Application.dll
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\obj\Debug\net8.0\ChatPlatform.Application.pdb
+D:\Web Course\Projects\ChatPlatform\ChatPlatform.Application\obj\Debug\net8.0\ref\ChatPlatform.Application.dll
